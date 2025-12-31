@@ -48,3 +48,15 @@ O projeto foi estruturado nas seguintes etapas:
 Após a etapa de engenharia de atributos e refinamento, o modelo **Random Forest** apresentou o melhor desempenho geral, alcançando uma acurácia de aproximadamente **87%**.
 
 A análise de importância das variáveis (*Feature Importance*) destacou que a **Idade (Age)**, o **Salário Estimado (EstimatedSalary)** e a **Pontuação de Crédito (CreditScore)** são os fatores mais determinantes para a previsão do churn neste conjunto de dados.
+
+## 👨‍💻 Créditos
+
+Desenvolvido por **Lucas Lima Souza**.
+
+<a href="https://www.linkedin.com/in/lucaslimasouz" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## 📂 Dataset
+
+O conjunto de dados utilizado neste projeto foi retirado do Kaggle:
+* [Churn Modelling - Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
