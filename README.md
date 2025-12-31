@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
+![Machine Learning](https://img.shields.io/badge/Machine%20learning-3F4F75)
+![Status](https://img.shields.io/badge/Status-Concluido-grenn)
 # Predição de Churn Bancário com Machine Learning
 
 Este projeto consiste em uma análise preditiva focada na retenção de clientes de uma instituição bancária. O objetivo principal é identificar padrões de comportamento e prever a probabilidade de um cliente deixar o banco (Churn), permitindo a tomada de decisões estratégicas para fidelização.
